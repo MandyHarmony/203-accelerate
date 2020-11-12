@@ -138,4 +138,21 @@ h4 {
     }
 }
 
+/* Footer */ 
+ul {
+    list-style: none;
+    float: right;
+}
+
+.social-media-menu li {
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+    filter: brightness(100);
+    line-height: 35px;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    vertical-align: middle;
+  }
 
