@@ -112,6 +112,28 @@ h4 {
     color: black;
 }
 
+/*Contact Page */ 
+
+.contact .site-content {
+    // styles that apply to the .site-content class only on the contact page
+  }
+
+.nf-form-content {
+    max-width: 800px;
+}
+
+.field-wrap button {
+    width: auto;
+    color: #45ac9d;
+}
+
+.nf-field-element {
+    color: #45ac9d;    
+}
+span.ninja-forms-req-symbol {
+    display: none;
+}
+
 /* Media Queries */
 @media (min-width: 768px) {
     .featured-work .site-content {
@@ -148,7 +170,7 @@ ul {
     background-color: black;
     border-radius: 50%;
     display: inline-block;
-    filter: brightness(100);
+    color:white;
     line-height: 35px;
     width: 35px;
     height: 35px;
